@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Trivial",
+			"path": "../Trivial"
+		},
+		{
+			"name": "Tiempo",
+			"path": "../Tiempo"
+		},
+		{
+			"name": "Formulario-1",
+			"path": "../Formulario-1"
+		},
+		{
+			"path": "../arcadyan"
+		}
+	],
+	"settings": {}
+}
